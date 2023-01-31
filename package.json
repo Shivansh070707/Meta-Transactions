@@ -8,6 +8,8 @@
     "@openzeppelin/contracts": "^4.8.1",
     "defender-relay-client": "^1.38.0",
     "dotenv": "^16.0.3",
-    "eth-sig-util": "^3.0.1"
+    "eth-sig-util": "^3.0.1",
+    "hardhat-contract-sizer": "^2.7.0",
+    "moralis": "^2.12.0"
   }
 }

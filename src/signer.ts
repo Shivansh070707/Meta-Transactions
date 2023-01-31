@@ -1,4 +1,4 @@
-import { ethSigUtil } from 'eth-sig-util';
+import * as ethSigUtil from 'eth-sig-util';
 
 const EIP712Domain = [
   { name: 'name', type: 'string' },
